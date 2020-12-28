@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/konradzdeb/money/workflows/R-CMD-check/badge.svg)](https://github.com/konradzdeb/money/actions)
 <!-- badges: end -->
 
 money is a fun R package offering `money` class that facilitates
