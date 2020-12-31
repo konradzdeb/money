@@ -16,3 +16,4 @@ Suggests:
     spelling
 Config/testthat/edition: 3
 Language: en-GB
+RoxygenNote: 7.1.1
