@@ -9,7 +9,7 @@
 <!-- badges: end -->
 
 money is a fun R package offering `money` class that facilitates
-handling currency formatting supporting accountacy and other, useless,
+handling currency formatting supporting accounting and other, useless,
 formats.
 
 ## Installation
@@ -19,3 +19,11 @@ You can install the released version of money from GitHub with:
 ``` r
 devtools::install_github("konradzdeb/money)
 ```
+
+## ToDo
+
+  - [ ] Create basic class
+  - [ ] Arithmetic methods
+  - [ ] Show methods
+  - [x] Package license
+  - [x] GitHub Actions
