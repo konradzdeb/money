@@ -4,6 +4,11 @@
 #' @slot value A numeric value corresponding to money
 #' @slot format A character code corresponding to available format
 #' @export
-Money <- setClass(Class = "Money",
-         slots = list(currency = "character",
-                      value = "numeric"))
+Money <- setClass(
+  Class = "Money",
+  slots = list(
+    value = "numeric",
+    currency = "character",
+    format = "character"
+  )
+)

@@ -4,6 +4,8 @@
 #'   that will appeal to MS Excel aficionados!
 #' @docType package
 #' @name money-package
+#'
+#' @importFrom methods new setClass
 
 # The following block is used by usethis to automatically manage
 # roxygen namespace tags. Modify with care!

@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 [![R-CMD-check](https://github.com/konradzdeb/money/workflows/R-CMD-check/badge.svg)](https://github.com/konradzdeb/money/actions)
 <!-- badges: end -->
 
-money is a fun R package offering `money` class that facilitates handling currency formatting supporting accountacy and other, useless, formats.  
+money is a fun R package offering `money` class that facilitates handling currency formatting supporting accountancy and other, useless, formats.  
 
 ## Installation
 
@@ -28,3 +28,12 @@ You can install the released version of money from GitHub with:
 ``` r
 devtools::install_github("konradzdeb/money)
 ```
+
+## ToDo
+
+- [ ] Create basic class
+- [ ] Arithmetic methods
+- [ ] Show methods
+- [X] Package license
+- [X] GitHub Actions
+
