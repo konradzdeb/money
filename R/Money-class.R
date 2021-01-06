@@ -12,3 +12,11 @@ Money <- setClass(
     format = "character"
   )
 )
+
+setMethod(f = "initialize", signature = "Money", definition = function(.Object,...) {
+  .Object@value <- 1.00
+  .Object@currency <- NA_character_
+  .Object@format <- "Excelish"
+  .Object
+})
+
